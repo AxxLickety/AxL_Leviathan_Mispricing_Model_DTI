@@ -1,0 +1,10 @@
+city,slug,country,regime
+Austin,austin,USA,us_elastic_sunbelt
+Toronto,toronto,Canada,ca_restriction_heavy
+Shanghai,shanghai,China,cn_admin
+Hong Kong,hong_kong,Hong Kong,hk_supply_lock
+London,london,UK,uk_greenbelt
+Tokyo,tokyo,Japan,jp_high_supply
+Singapore,singapore,Singapore,sg_hdb
+Vancouver,vancouver,Canada,ca_restriction_heavy
+Sydney,sydney,Australia,au_migration_pressure

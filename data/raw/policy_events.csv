@@ -1,0 +1,17 @@
+region,date,event_type
+austin,2011-08-01,easing
+austin,2015-01-01,macro_prudential_tightening
+austin,2020-04-01,covid_support
+austin,2022-03-01,rate_hike_cycle_start
+toronto,2011-08-01,easing
+toronto,2015-01-01,macro_prudential_tightening
+toronto,2020-04-01,covid_support
+toronto,2022-03-01,rate_hike_cycle_start
+shanghai,2011-08-01,easing
+shanghai,2015-01-01,macro_prudential_tightening
+shanghai,2020-04-01,covid_support
+shanghai,2022-03-01,rate_hike_cycle_start
+hong_kong,2011-08-01,easing
+hong_kong,2015-01-01,macro_prudential_tightening
+hong_kong,2020-04-01,covid_support
+hong_kong,2022-03-01,rate_hike_cycle_start

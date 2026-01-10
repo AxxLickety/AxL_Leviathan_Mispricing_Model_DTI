@@ -1,0 +1,11 @@
+settings.json
+{
+  "files.exclude": {
+    "**/*.py": false,
+    "**/src/**": false,
+    "**/__pycache__": false
+  },
+  "search.exclude": {
+    "**/src/**": false
+  }
+}
