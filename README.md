@@ -1,3 +1,24 @@
+## Start here
+Open the Phase 1 report: **docs/PHASE1_SUMMARY.html**
+
+© 2026 Axl. All Rights Reserved.
+
+**Copyright Notice**
+This repository is published for viewing purposes only. No license is granted for reuse, modification, distribution, or commercial application.
+
+**Citation**
+If this work is referenced academically or discussed, it must be cited as:
+
+Axl, *AxL_Leviathan_Mispricing_Model_DTI*, 2026.
+
+---
+
+## Phase 1 Results (Start Here)
+
+➡️ **[Open full Phase 1 summary (HTML report)](docs/PHASE1_SUMMARY.html)**
+
+This report contains all figures, tables, and conclusions for Phase 1.
+
 # 📌 Mentor Reading Guide — Leviathan Project
 
 > *Suggested reading path (10–15 minutes total)*
@@ -69,3 +90,17 @@ It is provided for reproducibility rather than primary reading.
 > “When should we avoid acting under macro stress?”  
 > and shows that a learned decision surface can materially improve decision quality out-of-sample.*
 
+
+Data is not included in this public repo. See docs/DATA.md for instructions.
+
+(If GitHub preview does not render correctly, open the raw file:
+https://raw.githubusercontent.com/AxxLickety/leviathan-phase1-public/main/docs/PHASE1_SUMMARY.html)
+
+
+Integrity note: A cryptographic fingerprint of the Phase 1 summary is recorded in this repository for authorship verification.
+
+
+## VC quick navigation
+- **1-minute overview:** docs/PHASE1_SUMMARY.html
+- **Run entrypoint:** run_path_a.py
+- **Method spec:** docs/path_a_spec.md
