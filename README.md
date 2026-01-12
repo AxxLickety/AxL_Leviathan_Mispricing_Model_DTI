@@ -94,7 +94,7 @@ It is provided for reproducibility rather than primary reading.
 Data is not included in this public repo. See docs/DATA.md for instructions.
 
 (If GitHub preview does not render correctly, open the raw file:
-https://raw.githubusercontent.com/AxxLickety/leviathan-phase1-public/main/docs/PHASE1_SUMMARY.html)
+https://raw.githubusercontent.com/AxxLickety/AxL_Leviathan_Mispricing_Model_DTI/main/docs/PHASE1_SUMMARY.html)
 
 
 Integrity note: A cryptographic fingerprint of the Phase 1 summary is recorded in this repository for authorship verification.
