@@ -1,0 +1,12 @@
+
+# Data (not shipped in public repo)
+data/
+outputs/
+reports/
+
+# Envs / caches
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
